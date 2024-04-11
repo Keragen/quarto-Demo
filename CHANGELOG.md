@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.0](https://github.com/Keragen/quarto-Demo/compare/v1.0.0...v1.1.0) (2024-04-11)
+
+
+### Features
+
+* Create LICENSE ([2763025](https://github.com/Keragen/quarto-Demo/commit/27630253e7c04f54d0599e94a431e824957bc471))
+
 ## 1.0.0 (2024-04-11)
 
 
